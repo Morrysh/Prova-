@@ -1,0 +1,18 @@
+body{margin:0}
+
+h1 {background-color: #B22222;
+  color:white;
+  font-family: sans-serif;
+  padding-top: 20px;
+  padding-left: 70px;
+  height: 60px;
+
+}
+
+.fa-search{float:right; padding-right: 60px;}
+.fa-bars{margin-left: -50px; margin-right: 20px;}
+.main{background:white; width: 1000px;margin-left: auto; margin-right: auto; border:solid 2px black; height: 3000px;}
+.left{background: #B22222;float:left;width:100px; text-align: center; height: 20px; border-radius: 5px 0px 0px 5px;border: #FF6347 1px solid; color:#FFA500;}
+.right{background:#D3D3D3;float:left; width:896px;text-align:justify; height:20; border-radius: 0px 5px 5px 0px;border:	#A9A9A9 1px solid;}
+
+p {height: 18px; margin-top: 0; margin-left: 15px; color:	#696969;}
